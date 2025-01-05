@@ -25,4 +25,19 @@ These advantages often come at the cost of loosing the information and difficult
 
 In linear algebra, an eigenvector or characteristic vector is a vector that has its direction unchanged (or reversed) by a given linear transformation. More precisely, an eigenvector, $\mathbf {v}$ of a linear tranformation $T$, is scaled by a constant factor, $\lambda$ (its corresponding eigenvalue) when the transformation is applied to it (i.e. ${\displaystyle T\mathbf {v} =\lambda \mathbf {v} }$).
 
+## Some Visualizations
+
+![newplot (12)](https://github.com/user-attachments/assets/43c8fdd9-9eb2-426f-9aaa-84b632ac59a8)
+
+
+![newplot (11)](https://github.com/user-attachments/assets/f57a1a51-9b0a-45e0-ba5e-1ecbcadf34c1)
+
+
+![newplot (10)](https://github.com/user-attachments/assets/0ae9c634-bd7d-40f0-aaa8-07090fafc74d)
+
+
+
+![newplot (9)](https://github.com/user-attachments/assets/a133c915-7828-449a-9fc0-c53607c7ffa0)
+
+
 To view the full code, please visit the Jupyter notebook!
