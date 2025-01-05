@@ -35,7 +35,7 @@ where
 
 - $\Lambda$ is a diagonal matrix with eigenvalues $\lambda _1 > \lambda _2 > ....> \lambda _n > 0 $, that we can write as:
 
-${\displaystyle \operatorname {\Lambda} ={\begin{bmatrix}\lambda _{1}&&&0\\&\lambda _{2}\\&&\ddots \\0&&&\lambda _{n}\end{bmatrix}}}$
+$ \Lambda ={\begin{bmatrix}\lambda _{1}&&&0\\&\lambda _{2}\\&&\ddots \\0&&&\lambda _{n}\end{bmatrix}$
 
 
 - $\operatorname {V}$ is a vectorised matrix of eigenvectors as:
